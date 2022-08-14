@@ -1,0 +1,14 @@
+.selected{
+    color: aquamarine;
+    background-color: blue;
+}
+ul {
+    margin-left: 20px;
+    color: brown;
+}
+li{
+    cursor: crosshair;
+}
+span {
+    color: blue;
+}

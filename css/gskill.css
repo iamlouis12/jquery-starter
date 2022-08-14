@@ -1,0 +1,47 @@
+body{
+    background-color: blue;
+    background-size: 400px auto;
+    font-family: sans-serif;
+}
+img{
+    display: block;
+    width: 150px;
+    margin: 100px auto;
+}
+button {
+    background: #dae1e4;
+    border: none;
+    border-radius: 5px;
+    color: rgb(121, 121, 242);
+    font-size: 24px;
+    width: 480px;
+    padding: 40px 0;
+    margin: -40px -20px;
+    outline: none;
+    cursor: pointer;
+}
+.spoiler{
+    background: #1d3c6a;
+    width: 440px;
+    margin: 0 auto 20px;
+    border-radius: 5px;
+    padding: 40px 20px;
+    text-align: center;
+    font-size: 24px;
+
+}
+.spoiler2{
+    background: #1d3c6a;
+    width: 440px;
+    margin: 0 auto 20px;
+    border-radius: 5px;
+    padding: 40px 20px;
+    text-align: center;
+    font-size: 24px;
+}
+.spoiler span{
+    color: #dae1e4;
+}
+.spoiler2 span{
+    color: #dae1e4;
+}
